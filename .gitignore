@@ -1,1 +1,10 @@
 .idea
+
+# config file
+config.h
+
+# build artifacts
+drw.o
+dwm
+dwm.o
+util.o
