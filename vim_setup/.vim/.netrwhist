@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/shindex/RustProjects/sdx_ray_tracer/chapter_two/src'
+let g:netrw_dirhist_2='/home/shindex/RustProjects/sdx_ray_tracer/chapter_two'
+let g:netrw_dirhist_1='/home/shindex/RustProjects/sdx_ray_tracer'
+let g:netrw_dirhist_0='/home/shindex/RustProjects/sdx_ray_tracer/render/src/scene'
+let g:netrw_dirhist_9='/home/shindex/RustProjects/sdx_ray_tracer/render/src'
+let g:netrw_dirhist_8='/home/shindex/RustProjects/sdx_ray_tracer/render'
+let g:netrw_dirhist_7='/home/shindex/RustProjects/sdx_ray_tracer'
+let g:netrw_dirhist_6='/home/shindex/RustProjects/sdx_ray_tracer/render/src/scene'
+let g:netrw_dirhist_5='/home/shindex/RustProjects/sdx_ray_tracer/render/src'
+let g:netrw_dirhist_4='/home/shindex/RustProjects/sdx_ray_tracer/render'
