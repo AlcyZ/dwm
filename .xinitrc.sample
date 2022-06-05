@@ -1,0 +1,17 @@
+
+#exec "setxkbmap -layout de"
+
+# set keyboard layout
+setxkbmap -layout de
+
+# create wallpaper
+nitrogen --restore &
+
+# x window server utility to support eg. transparency
+picom --experimental-backend &
+
+# start dwm-bar
+/home/shindex/wm/dwm-bar/dwm_bar.sh &
+
+# start dwm window manager
+exec dwm
